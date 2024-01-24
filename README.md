@@ -1,5 +1,5 @@
-# learning-about-version-control
+# Learning about Version Control
 
-Yunxuan Zhang 88719752
+Author: Yunxuan Zhang 88719752
 
-Solving merge conflicts is soooooo hard!
+Solving merge conflicts takes conscious effort, but I can do it!
