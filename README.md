@@ -1,4 +1,4 @@
-# learning-about-version-control
+# Learning about Version Control
 
-Yunxuan Zhang 88719752
-Solving merge conflicts is easy!
+Author: Yunxuan Zhang 88719752
+
